@@ -1,0 +1,44 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dataset - do not upload raw data
+dataset/raw/*
+
+# Keep folder structure
+!dataset/raw/.gitkeep
+
+# Generated model files
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep requirements
+!requirements.txt
