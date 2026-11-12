@@ -1,0 +1,6 @@
+growth_percentage,interactions,active_users,active_movies,evaluation_users,users_with_cf_recommendations
+0,0,0,0,20,0
+5,34223,132,3008,20,19
+15,102671,263,4836,20,19
+30,205343,414,6879,20,20
+50,342239,661,7958,20,20

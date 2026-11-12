@@ -1,0 +1,11 @@
+movieID,title,genres,predicted_rating,raw_prediction,neighbor_support
+7982,"Janghwa, Hongryeon",Drama Horror Mystery Thriller,5.0,5.760616323242968,2
+1094,The Crying Game,Drama Romance War,5.0,5.4621223797922696,2
+3855,Une liaison pornographique,Drama Romance,5.0,5.2849237130069096,2
+1204,Lawrence of Arabia,Adventure Drama War,5.0,5.279753788424035,3
+1209,C'era una volta il West,Action Drama Western,5.0,5.235020084287444,4
+5995,The Pianist,Drama War,5.0,5.226366293753915,8
+8970,Finding Neverland,Drama,5.0,5.217865360557014,3
+2917,Body Heat,Crime Thriller,5.0,5.212405074027556,2
+3505,No Way Out,Drama Mystery Thriller,5.0,5.212405074027556,2
+308,Trzy kolory: Bialy,Comedy Drama,5.0,5.212405074027556,2
