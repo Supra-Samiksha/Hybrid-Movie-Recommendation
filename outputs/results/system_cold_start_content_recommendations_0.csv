@@ -1,0 +1,11 @@
+movieID,title,genres,similarity_score
+3114,Toy Story,Adventure Animation Children Comedy Fantasy,0.5169276148189842
+50872,Ratatouille,Animation Children Comedy Fantasy,0.41654843697379595
+2355,A Bug's Life,Adventure Animation Children Comedy,0.4131743716482954
+2018,Bambi,Animation Children Drama,0.3978448028917759
+2080,Lady and the Tramp,Animation Children Comedy Musical Romance,0.37622817084741944
+596,Pinocchio,Animation Children Fantasy Musical,0.361412349706916
+1282,Fantasia,Animation Children Fantasy Musical,0.36063156247231876
+4886,"Monsters, Inc.",Animation Children Comedy Fantasy,0.3598728787801978
+45517,Cars,Animation Children Comedy Fantasy,0.3522409088649966
+40339,Chicken Little,Action Adventure Animation Children Comedy Sci-Fi,0.34847347957336866
