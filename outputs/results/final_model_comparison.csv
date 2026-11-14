@@ -1,0 +1,6 @@
+Model,Precision@10,Recall@10,NDCG@10
+User Content,0.174,0.07,0.2083
+System CF,0.076,0.0267,0.0771
+Item Cold Start,0.0,0.0,0.0
+Fixed Weight Hybrid,0.076,0.0304,0.0916
+Sparsity-Aware Hybrid,0.08,0.034,0.095
